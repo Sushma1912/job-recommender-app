@@ -1,0 +1,11 @@
+Job Title,Skills,Experience,Description
+Data Analyst,"SQL; Python; Excel",2,Analyze datasets, build dashboards and provide insights for business stakeholders.
+Machine Learning Engineer,"Python; TensorFlow; ML",3,Develop and deploy machine learning models and maintain model pipelines.
+Backend Developer,"Python; Django; REST",2,Build backend APIs and services, integrate databases and ensure scalability.
+Frontend Developer,"JavaScript; React; HTML/CSS",2,Design and implement user interfaces with modern JS frameworks.
+DevOps Engineer,"Docker; Kubernetes; CI/CD",3,Manage infrastructure, automate deployments and monitor system reliability.
+Product Manager,"Product Management; Communication",4,Define product roadmaps, gather requirements and coordinate releases.
+UX Designer,"Figma; User Research",2,Design user-friendly interfaces and conduct usability testing.
+Business Analyst,"Excel; SQL; Reporting",2,Translate business needs into reports and actionable insights.
+QA Engineer,"Testing; Selenium; Automation",2,Automate testing pipelines and ensure software quality across releases.
+Cloud Architect,"AWS; GCP; IaC",5,Design cloud solutions and manage scalable infrastructure for enterprise applications.
