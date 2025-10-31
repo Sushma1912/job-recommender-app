@@ -1,11 +1,5 @@
-<<<<<<< HEAD
-# ==========================================================
-# AI Job Recommender System - Local Streamlit App
-# ==========================================================
-# Author: Sushma
-# Description: Upload your resume PDF → Get job recommendations + Apply links
-# ==========================================================
-
+import fastapi
+from recommender import recommend_jobs
 import streamlit as st
 import pandas as pd
 import numpy as np
